@@ -18,14 +18,12 @@ const {User} = require('./../server/models/user');
 //     console.log('Todos', todos);
 // });
 
-
 // findOne() example
 // Todo.findOne({
 //     _id: id
 // }).then((todo) => {
 //     console.log('Todo', todo);
 // });
-
 
 // findById() example
 // Todo.findById(id).then((todo) => {
